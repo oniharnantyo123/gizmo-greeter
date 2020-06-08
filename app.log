@@ -1,0 +1,29 @@
+{"level":"info","msg":"Starting new gizmo-greeter--c97f2f47-02a7-4b19-49b1-2e42097a4c08 server","time":"2020-06-08T13:49:05+07:00"}
+{"level":"info","msg":"Listening on [::]:9210","time":"2020-06-08T13:49:05+07:00"}
+{"level":"info","msg":"Received signal interrupt","time":"2020-06-08T13:52:29+07:00"}
+{"level":"info","msg":"Stopping gizmo-greeter--c97f2f47-02a7-4b19-49b1-2e42097a4c08 server","time":"2020-06-08T13:52:29+07:00"}
+{"level":"fatal","msg":"server encountered a fatal error: received signal interrupt","time":"2020-06-08T13:52:29+07:00"}
+{"level":"info","msg":"Starting new gizmo-greeter--2fa7310e-bdf0-4869-7e77-ce91cbb09321 server","time":"2020-06-08T14:13:59+07:00"}
+{"level":"info","msg":"Listening on [::]:9210","time":"2020-06-08T14:13:59+07:00"}
+{"level":"info","msg":"Received signal interrupt","time":"2020-06-08T14:14:25+07:00"}
+{"level":"info","msg":"Stopping gizmo-greeter--2fa7310e-bdf0-4869-7e77-ce91cbb09321 server","time":"2020-06-08T14:14:25+07:00"}
+{"level":"error","msg":"encountered an error while serving listener: accept tcp [::]:9210: use of closed network connection","time":"2020-06-08T14:14:25+07:00"}
+{"level":"fatal","msg":"server encountered a fatal error: received signal interrupt","time":"2020-06-08T14:14:25+07:00"}
+{"level":"info","msg":"Starting new gizmo-greeter--c97b98fa-919b-4510-793e-db1337f4babc server","time":"2020-06-08T14:29:02+07:00"}
+{"level":"info","msg":"Listening on [::]:9210","time":"2020-06-08T14:29:02+07:00"}
+{"level":"info","msg":"Received signal interrupt","time":"2020-06-08T14:31:07+07:00"}
+{"level":"info","msg":"Stopping gizmo-greeter--c97b98fa-919b-4510-793e-db1337f4babc server","time":"2020-06-08T14:31:07+07:00"}
+{"level":"error","msg":"encountered an error while serving listener: accept tcp [::]:9210: use of closed network connection","time":"2020-06-08T14:31:07+07:00"}
+{"level":"fatal","msg":"server encountered a fatal error: received signal interrupt","time":"2020-06-08T14:31:07+07:00"}
+{"level":"info","msg":"Starting new gizmo-greeter--e63d4e02-118f-4301-770a-c2950c5dbb71 server","time":"2020-06-08T14:31:10+07:00"}
+{"level":"info","msg":"Listening on [::]:9210","time":"2020-06-08T14:31:10+07:00"}
+{"level":"info","msg":"Received signal interrupt","time":"2020-06-08T14:32:19+07:00"}
+{"level":"info","msg":"Stopping gizmo-greeter--e63d4e02-118f-4301-770a-c2950c5dbb71 server","time":"2020-06-08T14:32:19+07:00"}
+{"level":"error","msg":"encountered an error while serving listener: accept tcp [::]:9210: use of closed network connection","time":"2020-06-08T14:32:19+07:00"}
+{"level":"fatal","msg":"server encountered a fatal error: received signal interrupt","time":"2020-06-08T14:32:19+07:00"}
+{"level":"info","msg":"Starting new gizmo-greeter--e5bd424e-1a61-4beb-603d-4f6bb2806888 server","time":"2020-06-08T14:32:23+07:00"}
+{"level":"info","msg":"Listening on [::]:9210","time":"2020-06-08T14:32:23+07:00"}
+{"level":"info","msg":"Received signal interrupt","time":"2020-06-08T14:51:40+07:00"}
+{"level":"info","msg":"Stopping gizmo-greeter--e5bd424e-1a61-4beb-603d-4f6bb2806888 server","time":"2020-06-08T14:51:40+07:00"}
+{"level":"error","msg":"encountered an error while serving listener: accept tcp [::]:9210: use of closed network connection","time":"2020-06-08T14:51:40+07:00"}
+{"level":"fatal","msg":"server encountered a fatal error: received signal interrupt","time":"2020-06-08T14:51:40+07:00"}
