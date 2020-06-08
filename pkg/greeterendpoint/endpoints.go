@@ -1,6 +1,7 @@
 package greeterendpoint
 
 import (
+	"fmt"
 	"net/http"
 
 	ocontext "golang.org/x/net/context"
@@ -37,6 +38,7 @@ func MakeHealthEndpoint(s greeterservice.Service) server.JSONContextEndpoint {
 // MakeGreetingEndpoint constructs a Greeting endpoint.
 func MakeGreetingEndpoint(s greeterservice.Service) server.JSONContextEndpoint {
 	return func(ctx ocontext.Context, r *http.Request) (int, interface{}, error) {
+		fmt.Println(r.URL)
 		vars := r.URL.Query()
 		names, exists := vars["name"]
 		if !exists || len(names) != 1 {
