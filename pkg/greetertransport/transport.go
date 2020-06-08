@@ -2,8 +2,8 @@ package greetertransport
 
 import (
 	"context"
-	"gizmo-greeter/pb"
-	"gizmo-greeter/pkg/greeterendpoint"
+	"github.com/oniharnantyo123/gizmo-greeter/pb"
+	"github.com/oniharnantyo123/gizmo-greeter/pkg/greeterendpoint"
 
 	"github.com/NYTimes/gizmo/server"
 	"google.golang.org/grpc"

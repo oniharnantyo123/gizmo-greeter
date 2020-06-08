@@ -1,4 +1,4 @@
-module gizmo-greeter
+module github.com/oniharnantyo/gizmo-greeter
 
 go 1.14
 

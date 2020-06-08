@@ -5,16 +5,16 @@ import (
 	"fmt"
 	"github.com/NYTimes/gizmo/config"
 	"github.com/NYTimes/gizmo/server"
-	"gizmo-greeter/pkg/greeterendpoint"
-	"gizmo-greeter/pkg/greetersd"
-	"gizmo-greeter/pkg/greeterservice"
-	"gizmo-greeter/pkg/greetertransport"
+	"github.com/oklog/oklog/pkg/group"
+	"github.com/oniharnantyo123/gizmo-greeter/pkg/greeterendpoint"
+	"github.com/oniharnantyo123/gizmo-greeter/pkg/greetersd"
+	"github.com/oniharnantyo123/gizmo-greeter/pkg/greeterservice"
+	"github.com/oniharnantyo123/gizmo-greeter/pkg/greetertransport"
 	"os"
 	"os/signal"
 	"strconv"
 	"syscall"
 	"text/tabwriter"
-	"github.com/oklog/oklog/pkg/group"
 )
 
 func main() {
